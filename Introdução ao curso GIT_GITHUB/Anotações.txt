@@ -1,2 +1,11 @@
 Link para download oficial GIT: https://git-scm.com/downloads
+Após instalar o GIT , deverá ser criada a conta no GITHUB na finalidade de vincular e armazenar os projetos de forma pública.
+
 Git Bash é um console extendido para otimizar o uso do Git.
+Git Add: função utilizada para adicionar os arquivos inclusos na pasta criada.
+Git status: função utilizada para verificar o status do GIT. 
+Git commit: Função utilizada para comitar as informações, onde posteriormente deverá encaminhar para nuvem através do comando Git push. 
+
+Atenção: Sempre efetuar as configurações anteriormente utilizando git config --global user.email "email utilizado entre as áspas" e git config --global user.name "nome utilizado entre áspas".
+
+Comandos básicos ao avançado, acessar o link: "https://comandosgit.github.io/".
